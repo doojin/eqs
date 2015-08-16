@@ -1,0 +1,18 @@
+{
+    "name": "doojin/eqs",
+    "description": "Searches for earthquakes",
+    "keywords": ["earthquake"],
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/doojin/eqs",
+    "type": "library",
+    "authors": [
+        {
+            "name": "doojin",
+            "email": "dmitry.papka@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Eqs\\": "src/Eqs"}
+    }
+}
